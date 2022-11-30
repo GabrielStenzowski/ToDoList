@@ -32,4 +32,8 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 To Do List
 
+## :memo: Licença
+
+Esse projeto está sob a licença MIT.
+
 
